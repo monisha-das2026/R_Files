@@ -14,7 +14,9 @@ children refer to the number of living children. The variable electric is a bina
 the woman’s home has electricity, and zero if not.
 
 
-2.UK Property's Data Set
+2.UK Property's Data Set:
+
+Data Set From ---  https://github.com/masud-alam/ECO274LAB/blob/main/ACFG2018.csv
 
 
 3.Summary of Data Set
